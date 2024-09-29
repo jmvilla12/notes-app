@@ -1,6 +1,0 @@
-[build]
-command = "npm run build"
-publish = "dist"
-
-[env]
-NPM_CONFIG_LEGACY_PEER_DEPS = "true"
